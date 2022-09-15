@@ -35,3 +35,4 @@ agenda.eliminarContacto("Juan");
 agenda.listarContactos();
 agenda.agendaLlena();
 agenda.huecosLibres();
+agenda.listarContactos()
